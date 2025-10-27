@@ -20,7 +20,7 @@ conda activate ris_fusion_env
 - Install Dependencies
 
 ```shell
-pip install -r requirements.txt
+pip install -r requirements.yml
 ```
 
 ------
