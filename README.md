@@ -139,6 +139,7 @@ python train_fused.py
 
 ------
 ### 6.Citation
+```python
 @InProceedings{Wang_2025_ICCV,
     author    = {Wang, Zeyu and Zhang, Jizheng and Song, Haiyu and Ge, Mingyu and Wang, Jiayu and Duan, Haoran},
     title     = {Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion},
@@ -147,4 +148,5 @@ python train_fused.py
     year      = {2025},
     pages     = {12637-12647}
 }
+```
 
