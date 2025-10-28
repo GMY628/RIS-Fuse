@@ -138,4 +138,13 @@ python train_fused.py
 ![fusion](RISW-STAGE1-OS/configs/table.png)
 
 ------
+### 6.Citation
+@InProceedings{Wang_2025_ICCV,
+    author    = {Wang, Zeyu and Zhang, Jizheng and Song, Haiyu and Ge, Mingyu and Wang, Jiayu and Duan, Haoran},
+    title     = {Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {12637-12647}
+}
 
