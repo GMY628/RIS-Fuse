@@ -1,6 +1,7 @@
 # Highlight What You Want
 
 Codes for ***Highlight What You Want: Weakly-Supervised Instance-Level Controllable Infrared-Visible Image Fusion***. ***(ICCV 2025)***
+[Paper](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Highlight_What_You_Want_Weakly-Supervised_Instance-Level_Controllable_Infrared-Visible_Image_Fusion_ICCV_2025_paper.html)
 
 ------
 
