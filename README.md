@@ -27,16 +27,7 @@ pip install -r requirements.yml
 ------
 
 ### 2.Pre-trained Weights
-
-(1) The OMG_Seg weights is at [OMG](https://drive.google.com/drive/folders/14ZWOHOExb4FfQmwUgJQ2AtR83t7A3KiG?usp=drive_link). 
-
-Please put them in `'RIS-FUSION/RISW-STAGE1-OS/model/OMG_Seg/models/'`
-
-(2) The Pre-trained weights for stage1 is at [Stage1](https://drive.google.com/drive/folders/1poopCPc6x5hgIPShI4JOZaQ6JhdhxBGH?usp=drive_link). 
-
-Please put them in `'RIS-FUSION/RISW-STAGE1-OS/weights/stage1/'`
-
-(3) The Pre-trained weights for stage2 is at [Stage2](https://drive.google.com/drive/folders/1Enxz_1HuLAuWGpvHjqIGOoGjNRw5SUOy?usp=drive_link). 
+The Pre-trained weights for fusion is at [Stage2](https://drive.google.com/drive/folders/1Enxz_1HuLAuWGpvHjqIGOoGjNRw5SUOy?usp=drive_link). 
 
 Please put the '`best_model.pth`' in '`RISW-STAGE2-OS/CRIS/exp/refcoco/CRIS_R50`'  and the `'model_stage2.pth'` in `'RISW-STAGE2-OS/'`
 
